@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"React in Material for MKDocs test","text":"<p>Full Documentation to follow</p>"},{"location":"#app-one","title":"App One","text":""},{"location":"#app-two","title":"App Two","text":""}]}
